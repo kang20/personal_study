@@ -1,0 +1,87 @@
+/* @settings
+name: Elegant Theme with Color
+id: elegant-theme-color-settings
+settings:
+    - 
+        id: primary-color
+        title: Primary Color
+        description: Main color used throughout the UI.
+        type: variable-color
+        format: hex
+        default: '#336699'
+    - 
+        id: code-color
+        title: Code Block Color
+        description: Color for code blocks.
+        type: variable-color
+        format: hex
+        default: '#e0e0e0'
+    - 
+        id: bold-color
+        title: Bold Text Color
+        description: Color for bold text.
+        type: variable-color
+        format: hex
+        default: '#ff5722'
+    - 
+        id: italic-color
+        title: Italic Text Color
+        description: Color for italic text.
+        type: variable-color
+        format: hex
+        default: '#4caf50'
+    - 
+        id: header-color
+        title: Header Color
+        description: Color for headers.
+        type: variable-color
+        format: hex
+        default: '#2196f3'
+*/
+
+:root {
+    --primary-color: var(--primary-color, #336699);
+    --code-color: var(--code-color, #e0e0e0);
+    --bold-color: var(--bold-color, #ff5722);
+    --italic-color: var(--italic-color, #4caf50);
+    --header-color: var(--header-color, #2196f3);
+}
+
+body {
+    background-color: var(--primary-color);
+    font-family: var(--base-font);
+    font-size: var(--font-size);
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--header-font);
+    color: var(--header-color);
+    margin-top: calc(var(--spacing-base) * 2);
+    margin-bottom: var(--spacing-base);
+}
+
+p, ul, ol, dl {
+    margin-top: 0;
+    margin-bottom: var(--spacing-base);
+}
+
+strong {
+    color: var(--bold-color);
+}
+
+em {
+    color: var(--italic-color);
+}
+
+pre {
+    background-color: var(--code-color);
+    padding: var(--spacing-base);
+    border-radius: 4px;
+}
+
+code {
+    background-color: var(--code-color);
+    padding: 2px 4px;
+    border-radius: 4px;
+}

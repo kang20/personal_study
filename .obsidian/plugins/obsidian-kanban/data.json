@@ -1,0 +1,17 @@
+{
+  "show-checkboxes": true,
+  "new-line-trigger": "shift-enter",
+  "show-relative-date": true,
+  "move-dates": true,
+  "link-date-to-daily-note": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ],
+  "archive-with-date": false,
+  "append-archive-date": false
+}

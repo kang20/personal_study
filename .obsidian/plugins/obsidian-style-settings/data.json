@@ -1,0 +1,17 @@
+{
+  "elegant-theme-color-settings@@code-color": "#1D212E",
+  "elegant-theme-color-settings@@bold-color": "#2238FF",
+  "elegant-theme-color-settings@@italic-color": "#4CAF50",
+  "elegant-theme-color-settings@@header-color": "#6321F3",
+  "listive-theme-settings@@desktop-dark-theme-variant": "color-scheme-base",
+  "listive-theme-settings@@font-ui-medium": 13,
+  "things-style@@mobile-black-background": false,
+  "things-style@@h2-underline": true,
+  "things-style@@h4-color": "#9BD73E",
+  "things-style@@h3-color": "#C58918",
+  "things-style@@h1-color": "#F9D94D",
+  "things-style@@h2-color": "#D3D976",
+  "things-style@@h5-color": "#647782",
+  "things-style@@strong-color": "#646CF3",
+  "things-style@@em-color": "#9857FD"
+}
