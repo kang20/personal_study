@@ -11,23 +11,14 @@
             "id": "8d96b76db3edf631",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TO-DO-LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TO-DO-LIST"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -205,20 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f497b01a0457a899",
+  "active": "8d96b76db3edf631",
   "lastOpenFiles": [
+    "TO-DO-LIST.md",
+    "2025-01-24.md",
     "README.md",
+    "Vault.md",
     "새 텍스트 문서.txt",
     "무제 파일.md",
     "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
-    "TO-DO-LIST.md",
-    "Vault.md",
     "[.md",
     "백엔드/spring/Spring Config.md",
     "무제 폴더",
     "Excalidraw/Excalidraw.md",
     "link_file/Pasted image 20250124180145.png",
-    "2025-01-24.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
     "백엔드/마이크로서비스/마이크로서비스.md",
