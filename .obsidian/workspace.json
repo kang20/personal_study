@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법"
+              "title": "README"
             }
           }
         ]
@@ -196,17 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f497b01a0457a899",
+  "active": "d912ab6a2e3c2ecb",
   "lastOpenFiles": [
     "백엔드/spring/Spring Config.md",
+    "README.md",
+    "TO-DO-LIST.md",
+    "Vault.md",
     "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
+    "무제 폴더",
     "Excalidraw/Excalidraw.md",
     "link_file/Pasted image 20250124180145.png",
     "2025-01-24.md",
-    "무제 파일.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
-    "TO-DO-LIST.md",
     "백엔드/마이크로서비스/마이크로서비스.md",
     "백엔드/백엔드.md",
     "백엔드/spring/spring.md",
@@ -214,7 +216,6 @@
     "Excalidraw/Drawing 2025-01-24 17.40.11.excalidraw.md",
     "Excalidraw/Drawing 2025-01-24 17.40.09.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 20.25.11.excalidraw.md",
-    "Vault.md",
     "link_file/Pasted image 20250124081116.png",
     "Tags",
     "link/link.md",
