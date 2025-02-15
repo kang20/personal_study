@@ -12,7 +12,7 @@
 
 ##### Spring config
 
-![[백엔드/spring/Spring Config.md]]
+![[Spring Config]]
 
 
 

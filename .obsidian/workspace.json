@@ -4,30 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce820f1a61f96140",
+        "id": "8a067901b4e677d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8d96b76db3edf631",
+            "id": "550dcfeecbe7d9ff",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TO-DO-LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "백엔드/마이크로서비스/게이트웨이/[MSA] 게이트웨이란.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TO-DO-LIST"
+              "icon": "lucide-file",
+              "title": "[MSA] 게이트웨이란"
             }
           }
         ]
@@ -49,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -61,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eureka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +71,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
-            "id": "08b22d7f8ac2b71f",
+            "id": "29e9f9d4b008c3e3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -96,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "a8548a91fdafbe61",
@@ -193,55 +186,102 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d96b76db3edf631",
+  "floating": {
+    "id": "98f5ec232e6a6cb4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "498cf93bb6bf36fd",
+        "type": "window",
+        "children": [
+          {
+            "id": "1dbcda66256c1221",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8023d4a38c8eb902",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/금오톡.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "금오톡.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1976,
+        "y": 234,
+        "width": 917,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "550dcfeecbe7d9ff",
   "lastOpenFiles": [
-    "Vault.md",
-    "TO-DO-LIST.md",
-    "README.md",
-    "백엔드/spring/Spring Config.md",
-    "2025-01-24.md",
-    "새 텍스트 문서.txt",
-    "무제 파일.md",
-    "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
-    "[.md",
-    "무제 폴더",
-    "Excalidraw/Excalidraw.md",
-    "link_file/Pasted image 20250124180145.png",
-    "무제 파일 1.md",
-    "무제 파일 2.md",
-    "백엔드/마이크로서비스/마이크로서비스.md",
-    "백엔드/백엔드.md",
-    "백엔드/spring/spring.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] Spring Cloud 로 Service Discovery 구현.md",
     "Excalidraw/금오톡.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-24 17.40.11.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-24 17.40.09.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-23 20.25.11.excalidraw.md",
-    "link_file/Pasted image 20250124081116.png",
-    "Tags",
-    "link/link.md",
-    "link_file/Pasted image 20250124081036.png",
-    "Pasted image 20250124080946.png",
-    "link_file/Pasted image 20250124081022.png",
-    "link_file",
-    "Pasted image 20250124080643.png",
-    "Pasted image 20250124074701.png",
-    "Welcome.md",
-    "link",
-    "Excalidraw",
-    "백엔드/spring",
-    "백엔드",
-    "백엔드/마이크로서비스"
+    "백엔드/마이크로서비스/중앙 구성 관리/Spring Cloud Config 로 외부 구성 관리.md",
+    "백엔드/마이크로서비스/중앙 구성 관리/Config Server를 구축하면서 무엇을 생각하고 대비해야하는가.md",
+    "백엔드/마이크로서비스/중앙 구성 관리/중앙 구성 관리.md",
+    "백엔드/마이크로서비스/장애 회복 패턴/장애 회복 패턴.md",
+    "백엔드/마이크로서비스/장애 회복 패턴/[MSA] 클라이언트 회복성 패턴 .md",
+    "백엔드/spring/spring.md",
+    "백엔드/마이크로서비스/게이트웨이/[MSA] 게이트웨이란.md",
+    "link_file/Pasted image 20250214174151.png",
+    "link_file/Pasted image 20250214170411.png",
+    "link_file/Pasted image 20250214164551.png",
+    "TO-DO-LIST.md",
+    "백엔드/마이크로서비스/게이트웨이",
+    "백엔드/마이크로서비스/장애 회복 패턴",
+    "백엔드/마이크로서비스/무제.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/Servic Discovery 패턴.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] Netflix Eureka 뜯어보기.md",
+    "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 서비스 디스커버리 패턴.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 스프링과 넷플릭스 유레카를 사용한 서비스 디스커버리.md",
+    "link_file/Pasted image 20250209062321.png",
+    "백엔드/마이크로서비스/마이크로서비스.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴",
+    "백엔드/마이크로서비스/중앙 구성 관리",
+    "link_file/Pasted image 20250207031154.png",
+    "link_file/Pasted image 20250207031019.png",
+    "link_file/Pasted Image 20250207030706_386.png",
+    "link_file/Pasted image 20250207024732.png",
+    "link_file/Pasted image 20250207024716.png",
+    "link_file/Pasted image 20250207024703.png",
+    "백엔드/마이크로서비스/중앙 구성 관리/GIT Config 서버 설정.md",
+    "2025-01-24.md",
+    "무제.md",
+    "README.md",
+    "test-cloud-config-file/test_config/test-db.yml",
+    "test-cloud-config-file/test_config",
+    "test-cloud-config-file/README.md",
+    "test-cloud-config-file",
+    "새 폴더",
+    "Vault.md",
+    "무제 1.md",
+    "백엔드/마이크로서비스/Spring Config.md",
+    "Excalidraw/Drawing 2025-01-29 18.14.19.excalidraw.md",
+    "새 텍스트 문서.txt",
+    "무제 폴더"
   ]
 }

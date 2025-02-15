@@ -1,4 +1,12 @@
 {
   "readableLineLength": true,
-  "attachmentFolderPath": "link_file"
+  "attachmentFolderPath": "link_file",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
