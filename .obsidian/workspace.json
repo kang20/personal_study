@@ -11,23 +11,14 @@
             "id": "550dcfeecbe7d9ff",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "TO-DO-LIST.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 핵심 개념과 사용법.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TO-DO-LIST"
+              "icon": "lucide-file",
+              "title": "[MSA] Spring Cloud Gateway 핵심 개념과 사용법"
             }
           }
         ]
@@ -84,7 +75,7 @@
             }
           },
           {
-            "id": "29e9f9d4b008c3e3",
+            "id": "4497092c9d52db54",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -207,19 +198,19 @@
     }
   },
   "floating": {
-    "id": "98f5ec232e6a6cb4",
+    "id": "0c3456b24d060917",
     "type": "floating",
     "children": [
       {
-        "id": "498cf93bb6bf36fd",
+        "id": "36a3af98ea6fa1af",
         "type": "window",
         "children": [
           {
-            "id": "1dbcda66256c1221",
+            "id": "31d12333dfc42659",
             "type": "tabs",
             "children": [
               {
-                "id": "8023d4a38c8eb902",
+                "id": "d63564f766797b30",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -234,23 +225,32 @@
           }
         ],
         "direction": "vertical",
-        "x": 1976,
-        "y": 234,
-        "width": 917,
-        "height": 992,
+        "x": -903,
+        "y": -421,
+        "width": 1007,
+        "height": 1032,
         "maximize": true,
-        "zoom": 0
+        "zoom": -0.5
       }
     ]
   },
-  "active": "f497b01a0457a899",
+  "active": "550dcfeecbe7d9ff",
   "lastOpenFiles": [
+    "Excalidraw/금오톡.excalidraw.md",
+    "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 핵심 개념과 사용법.md",
     "백엔드/마이크로서비스/게이트웨이/[MSA] 게이트웨이란.md",
+    "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 활용.md",
+    "link_file/Pasted image 20250217205248.png",
+    "link_file/Pasted image 20250217200215.png",
+    "link_file/Pasted image 20250217001128.png",
+    "link_file/Pasted image 20250216181311.png",
+    "link_file/Pasted image 20250216180700.png",
+    "link_file/Pasted image 20250216030401.png",
+    "TO-DO-LIST.md",
     "무제.md",
     "2025-01-24.md",
     "README.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] Spring Cloud 로 Service Discovery 구현.md",
-    "Excalidraw/금오톡.excalidraw.md",
     "백엔드/마이크로서비스/중앙 구성 관리/Spring Cloud Config 로 외부 구성 관리.md",
     "백엔드/마이크로서비스/중앙 구성 관리/Config Server를 구축하면서 무엇을 생각하고 대비해야하는가.md",
     "백엔드/마이크로서비스/중앙 구성 관리/중앙 구성 관리.md",
@@ -260,7 +260,6 @@
     "link_file/Pasted image 20250214174151.png",
     "link_file/Pasted image 20250214170411.png",
     "link_file/Pasted image 20250214164551.png",
-    "TO-DO-LIST.md",
     "백엔드/마이크로서비스/게이트웨이",
     "백엔드/마이크로서비스/장애 회복 패턴",
     "백엔드/마이크로서비스/무제.md",
@@ -273,12 +272,6 @@
     "백엔드/마이크로서비스/마이크로서비스.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴",
     "백엔드/마이크로서비스/중앙 구성 관리",
-    "link_file/Pasted image 20250207031154.png",
-    "link_file/Pasted image 20250207031019.png",
-    "link_file/Pasted Image 20250207030706_386.png",
-    "link_file/Pasted image 20250207024732.png",
-    "link_file/Pasted image 20250207024716.png",
-    "link_file/Pasted image 20250207024703.png",
     "백엔드/마이크로서비스/중앙 구성 관리/GIT Config 서버 설정.md",
     "test-cloud-config-file/test_config/test-db.yml",
     "test-cloud-config-file/test_config",
@@ -287,8 +280,6 @@
     "새 폴더",
     "Vault.md",
     "무제 1.md",
-    "백엔드/마이크로서비스/Spring Config.md",
-    "Excalidraw/Drawing 2025-01-29 18.14.19.excalidraw.md",
     "새 텍스트 문서.txt",
     "무제 폴더"
   ]
