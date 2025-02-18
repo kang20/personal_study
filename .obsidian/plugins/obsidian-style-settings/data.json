@@ -7,11 +7,13 @@
   "listive-theme-settings@@font-ui-medium": 13,
   "things-style@@mobile-black-background": false,
   "things-style@@h2-underline": true,
-  "things-style@@h4-color": "#9BD73E",
-  "things-style@@h3-color": "#C58918",
-  "things-style@@h1-color": "#F9D94D",
-  "things-style@@h2-color": "#D3D976",
-  "things-style@@h5-color": "#8B6C29",
-  "things-style@@strong-color": "#646CF3",
-  "things-style@@em-color": "#9857FD"
+  "things-style@@h4-color": "#199C6B",
+  "things-style@@h3-color": "#2C71DE",
+  "things-style@@h1-color": "#000AAA",
+  "things-style@@h2-color": "#6A41F4",
+  "things-style@@h5-color": "#9CAE04",
+  "things-style@@strong-color": "#A30C07",
+  "things-style@@em-color": "#CB9D01",
+  "things-style@@code-normal": "#272D62",
+  "things-style@@text-highlight-bg-l": "#000000"
 }

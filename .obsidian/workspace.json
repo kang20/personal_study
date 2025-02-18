@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a067901b4e677d0",
+        "id": "d77c5e40c83dc8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "550dcfeecbe7d9ff",
+            "id": "9ef9b80d4b054d1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 핵심 개념과 사용법.md",
+                "file": "백엔드/금오톡/모놀리식 아키텍처 - MSA 로 전환기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[MSA] Spring Cloud Gateway 핵심 개념과 사용법"
+              "title": "모놀리식 아키텍처 - MSA 로 전환기"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "4497092c9d52db54",
+            "id": "cc674044e43ec17e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,19 +198,19 @@
     }
   },
   "floating": {
-    "id": "0c3456b24d060917",
+    "id": "2d2a45ee2ecb766a",
     "type": "floating",
     "children": [
       {
-        "id": "36a3af98ea6fa1af",
+        "id": "ec831f4f4a54c5c9",
         "type": "window",
         "children": [
           {
-            "id": "31d12333dfc42659",
+            "id": "0c84f7226477d058",
             "type": "tabs",
             "children": [
               {
-                "id": "d63564f766797b30",
+                "id": "fec4d16c43edefd2",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -225,62 +225,147 @@
           }
         ],
         "direction": "vertical",
-        "x": -903,
-        "y": -421,
-        "width": 1007,
+        "x": 0,
+        "y": 0,
+        "width": 960,
         "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "135c8ade5354a12c",
+        "type": "window",
+        "children": [
+          {
+            "id": "9b7703bd3ab820c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "588ac71c700eba91",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "새 탭"
+                }
+              },
+              {
+                "id": "f80e630d490f5aac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법"
+                }
+              },
+              {
+                "id": "550dcfeecbe7d9ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 서비스 디스커버리 패턴.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "[MSA] 서비스 디스커버리 패턴"
+                }
+              },
+              {
+                "id": "cd7a72ad103bf899",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "백엔드/마이크로서비스/게이트웨이/[MSA] 게이트웨이란.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "[MSA] 게이트웨이란"
+                }
+              },
+              {
+                "id": "84bacd4b770d5f85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "백엔드/마이크로서비스/중앙 구성 관리/Spring Cloud Config 로 외부 구성 관리.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spring Cloud Config 로 외부 구성 관리"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2385,
+        "y": -161,
+        "width": 600,
+        "height": 993,
         "maximize": true,
-        "zoom": -0.5
+        "zoom": 0
       }
     ]
   },
-  "active": "550dcfeecbe7d9ff",
+  "active": "9ef9b80d4b054d1b",
   "lastOpenFiles": [
+    "백엔드/모듈러 모놀리식",
     "Excalidraw/금오톡.excalidraw.md",
-    "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 핵심 개념과 사용법.md",
+    "백엔드/금오톡/모놀리식 아키텍처 - MSA 로 전환기.md",
+    "link_file/Pasted image 20250218150452.png",
+    "link_file/Pasted image 20250218140716.png",
+    "link_file/Pasted image 20250218015903.png",
+    "백엔드/마이크로서비스/중앙 구성 관리/Spring Cloud Config 로 외부 구성 관리.md",
     "백엔드/마이크로서비스/게이트웨이/[MSA] 게이트웨이란.md",
+    "백엔드/마이크로서비스/중앙 구성 관리/Config Server를 구축하면서 무엇을 생각하고 대비해야하는가.md",
+    "백엔드/마이크로서비스/중앙 구성 관리/GIT Config 서버 설정.md",
+    "백엔드/마이크로서비스/중앙 구성 관리/중앙 구성 관리.md",
+    "백엔드/마이크로서비스/장애 회복 패턴/장애 회복 패턴.md",
+    "백엔드/마이크로서비스/장애 회복 패턴/[MSA] 클라이언트 회복성 패턴 .md",
+    "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
+    "백엔드/마이크로서비스/마이크로서비스.md",
+    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 서비스 디스커버리 패턴.md",
+    "무제.md",
+    "link_file/Pasted image 20250217230619.png",
+    "link_file/Pasted image 20250217230149.png",
+    "link_file/Pasted image 20250217225540.png",
+    "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 핵심 개념과 사용법.md",
+    "백엔드/금오톡",
+    "백엔드/.md",
+    "백엔드/백엔드.md",
     "백엔드/마이크로서비스/게이트웨이/[MSA] Spring Cloud Gateway 활용.md",
     "link_file/Pasted image 20250217205248.png",
     "link_file/Pasted image 20250217200215.png",
     "link_file/Pasted image 20250217001128.png",
     "link_file/Pasted image 20250216181311.png",
-    "link_file/Pasted image 20250216180700.png",
-    "link_file/Pasted image 20250216030401.png",
     "TO-DO-LIST.md",
-    "무제.md",
     "2025-01-24.md",
     "README.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] Spring Cloud 로 Service Discovery 구현.md",
-    "백엔드/마이크로서비스/중앙 구성 관리/Spring Cloud Config 로 외부 구성 관리.md",
-    "백엔드/마이크로서비스/중앙 구성 관리/Config Server를 구축하면서 무엇을 생각하고 대비해야하는가.md",
-    "백엔드/마이크로서비스/중앙 구성 관리/중앙 구성 관리.md",
-    "백엔드/마이크로서비스/장애 회복 패턴/장애 회복 패턴.md",
-    "백엔드/마이크로서비스/장애 회복 패턴/[MSA] 클라이언트 회복성 패턴 .md",
     "백엔드/spring/spring.md",
-    "link_file/Pasted image 20250214174151.png",
-    "link_file/Pasted image 20250214170411.png",
-    "link_file/Pasted image 20250214164551.png",
     "백엔드/마이크로서비스/게이트웨이",
     "백엔드/마이크로서비스/장애 회복 패턴",
     "백엔드/마이크로서비스/무제.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴/Servic Discovery 패턴.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] Netflix Eureka 뜯어보기.md",
-    "백엔드/마이크로서비스/[마이크로서비스] 클라우드 네이티브 마이크로서비스 구축 방법.md",
-    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 서비스 디스커버리 패턴.md",
-    "백엔드/마이크로서비스/Servic Discovery 패턴/[MSA] 스프링과 넷플릭스 유레카를 사용한 서비스 디스커버리.md",
-    "link_file/Pasted image 20250209062321.png",
-    "백엔드/마이크로서비스/마이크로서비스.md",
     "백엔드/마이크로서비스/Servic Discovery 패턴",
     "백엔드/마이크로서비스/중앙 구성 관리",
-    "백엔드/마이크로서비스/중앙 구성 관리/GIT Config 서버 설정.md",
     "test-cloud-config-file/test_config/test-db.yml",
     "test-cloud-config-file/test_config",
-    "test-cloud-config-file/README.md",
     "test-cloud-config-file",
     "새 폴더",
-    "Vault.md",
-    "무제 1.md",
-    "새 텍스트 문서.txt",
-    "무제 폴더"
+    "새 텍스트 문서.txt"
   ]
 }
